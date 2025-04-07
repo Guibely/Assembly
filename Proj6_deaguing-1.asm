@@ -1,10 +1,5 @@
-TITLE Program Project 6     (proj6_deaguing.asm)
+;TITLE String Primitives and Macros 
 
-; Author: Guibely De Aguinaga
-; Last Modified: 03/10/2025
-; OSU email address: deaguing@oregonstate.edu
-; Course number/section:   CS271 Section 400
-; Project Number:        6         Due Date: 03/16/2025
 ; Description: This program will read temperature measurements from a file and prin them out in the reverse order.
 ;              
 
